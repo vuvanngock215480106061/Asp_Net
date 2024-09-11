@@ -1,0 +1,9 @@
+E:\C#\NET\Thue\ngoc(tamgiacvuong)\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\C#\NET\Thue\ngoc(tamgiacvuong)\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\C#\NET\Thue\ngoc(tamgiacvuong)\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+E:\C#\NET\Thue\ngoc(tamgiacvuong)\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\C#\NET\Thue\ngoc(tamgiacvuong)\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\C#\NET\Thue\ngoc(tamgiacvuong)\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+E:\C#\NET\Thue\ngoc(tamgiacvuong)\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
+E:\C#\NET\Thue\ngoc(tamgiacvuong)\ClassLibrary1\bin\Debug\Newtonsoft.Json.xml
+E:\C#\NET\Thue\ngoc(tamgiacvuong)\ClassLibrary1\obj\Debug\ClassLib.E736BF3C.Up2Date
